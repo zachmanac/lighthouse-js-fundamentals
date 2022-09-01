@@ -11,3 +11,4 @@ console.log(elevenIsEven);
 console.log(isEven(10));
 console.log(isEven(11));
 //shortcut for lines 5-9
+
