@@ -88,7 +88,7 @@ console.log(cry());
 
 
 function emotions(myString, myFunc) {
-  console.log("I am " + myString + ", " + myFunc(2));
+  console.log("I am " + myString + ", " + myFunc(3));
 }
 
 emotions ("happy", function(num) {
